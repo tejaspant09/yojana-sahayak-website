@@ -17,3 +17,7 @@ The website uses a pinned public-source snapshot. To publish a reviewed change o
 The static website publishes reviewed information, exact citations, language selection, official CSC links and the WhatsApp entry point. The WhatsApp bot, AI inference, speech processing and Android SMS gateway run in the existing local environment. No credentials or linked-device state are part of this deployment.
 
 Original project: https://github.com/CPTECH47/yojana-sahayak
+
+## Daily source review
+
+The separate `Daily official source review` workflow runs at 06:00 India time (`30 0 * * *` UTC) and can be started manually from Actions. It checks the official discovery seeds listed in `corpus/discovery-registry.json` for all five occupation groups. Inspect the `official-source-review` artifact for readable observations, source changes, new allowlisted links and fetch/extraction failures. The first cloud run reported two access failures and three unreadable pages; it still saved the report and baseline. Newly observed material stays pending review. This job does not automatically change the website's approved catalogue.
