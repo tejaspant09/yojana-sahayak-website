@@ -1,0 +1,15 @@
+node_modules/
+dist/
+.env
+.env.*
+!.env.example
+*.log
+.DS_Store
+server/.baileys-auth/
+corpus/docs/*.html
+corpus/docs/pmkisan-operational-guidelines.pdf
+corpus/source_snapshots/
+.runtime/
+__pycache__/
+*.pyc
+public/catalog.json
