@@ -12,4 +12,3 @@ corpus/source_snapshots/
 .runtime/
 __pycache__/
 *.pyc
-public/catalog.json

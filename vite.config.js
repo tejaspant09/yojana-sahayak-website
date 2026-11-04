@@ -1,12 +1,12 @@
 import { defineConfig } from 'vite';
 import react from '@vitejs/plugin-react';
 
-export default defineConfig({
+export default defineConfig(({mode})=>({
   plugins: [react()],
-  base: '/yojana-sahayak-website/',
+  base: mode==='pages' ? '/yojana-sahayak-website/' : '/',
   server: {
     proxy: {
       '/api': 'http://127.0.0.1:3000'
     }
   }
-});
+}));

@@ -1,0 +1,1916 @@
+{
+  "schema_version": 1,
+  "prepared_on": "2026-10-30",
+  "source_pdf": "references/Yojana_Sahayak_Official_Government_Sources.pdf",
+  "source_pdf_sha256": "7468d6404b0e5f0d29b58b777fb76a8c7e4d1f544127c05f3a8bc4c12d72684c",
+  "source_pdf_pages": 8,
+  "pdf_link_annotations": 91,
+  "unique_source_urls": 86,
+  "purpose": "Discovery candidates transcribed from the supplied directory; not a verified scheme database or auto-fetch allowlist.",
+  "sources": [
+    {
+      "source_id": "directory-001",
+      "url": "https://www.myscheme.gov.in/",
+      "labels": [
+        "myScheme"
+      ],
+      "sectors": [
+        "National discovery"
+      ],
+      "pdf_pages": [
+        2
+      ],
+      "directory_descriptions": [
+        "Search central and state/UT schemes; filter by user profile and eligibility; read scheme details and application guidance."
+      ],
+      "verification_state": "directory_candidate_unverified",
+      "fetch_enabled": false,
+      "eligible_for_recommendation": false,
+      "verified_rule_document_url": null,
+      "verified_application_url": null,
+      "last_live_verified_at": null
+    },
+    {
+      "source_id": "directory-002",
+      "url": "https://www.india.gov.in/my-government/schemes",
+      "labels": [
+        "India.gov.in – Schemes"
+      ],
+      "sectors": [
+        "National discovery"
+      ],
+      "pdf_pages": [
+        2
+      ],
+      "directory_descriptions": [
+        "National Portal of India directory of government schemes."
+      ],
+      "verification_state": "directory_candidate_unverified",
+      "fetch_enabled": false,
+      "eligible_for_recommendation": false,
+      "verified_rule_document_url": null,
+      "verified_application_url": null,
+      "last_live_verified_at": null
+    },
+    {
+      "source_id": "directory-003",
+      "url": "https://www.india.gov.in/",
+      "labels": [
+        "India.gov.in"
+      ],
+      "sectors": [
+        "National discovery"
+      ],
+      "pdf_pages": [
+        2
+      ],
+      "directory_descriptions": [
+        "National Portal of India; broad government information and services."
+      ],
+      "verification_state": "directory_candidate_unverified",
+      "fetch_enabled": false,
+      "eligible_for_recommendation": false,
+      "verified_rule_document_url": null,
+      "verified_application_url": null,
+      "last_live_verified_at": null
+    },
+    {
+      "source_id": "directory-004",
+      "url": "https://igod.gov.in/",
+      "labels": [
+        "IGOD – Government Directory"
+      ],
+      "sectors": [
+        "National discovery"
+      ],
+      "pdf_pages": [
+        2
+      ],
+      "directory_descriptions": [
+        "Directory of official central and state government websites and organizations."
+      ],
+      "verification_state": "directory_candidate_unverified",
+      "fetch_enabled": false,
+      "eligible_for_recommendation": false,
+      "verified_rule_document_url": null,
+      "verified_application_url": null,
+      "last_live_verified_at": null
+    },
+    {
+      "source_id": "directory-005",
+      "url": "https://www.jansamarth.in/",
+      "labels": [
+        "JanSamarth"
+      ],
+      "sectors": [
+        "National discovery",
+        "Finance, banking and insurance"
+      ],
+      "pdf_pages": [
+        2
+      ],
+      "directory_descriptions": [
+        "Credit-linked government schemes and digital access to eligible loan-related schemes.",
+        "Credit-linked scheme discovery and application journeys."
+      ],
+      "verification_state": "directory_candidate_unverified",
+      "fetch_enabled": false,
+      "eligible_for_recommendation": false,
+      "verified_rule_document_url": null,
+      "verified_application_url": null,
+      "last_live_verified_at": null
+    },
+    {
+      "source_id": "directory-006",
+      "url": "https://agriwelfare.gov.in/",
+      "labels": [
+        "Agriculture & Farmers Welfare"
+      ],
+      "sectors": [
+        "Agriculture and farmers"
+      ],
+      "pdf_pages": [
+        2
+      ],
+      "directory_descriptions": [
+        "Ministry and department information, schemes and policy resources."
+      ],
+      "verification_state": "directory_candidate_unverified",
+      "fetch_enabled": false,
+      "eligible_for_recommendation": false,
+      "verified_rule_document_url": null,
+      "verified_application_url": null,
+      "last_live_verified_at": null
+    },
+    {
+      "source_id": "directory-007",
+      "url": "https://pmkisan.gov.in/",
+      "labels": [
+        "PM-KISAN"
+      ],
+      "sectors": [
+        "Agriculture and farmers"
+      ],
+      "pdf_pages": [
+        2
+      ],
+      "directory_descriptions": [
+        "Farmer income-support scheme information and beneficiary services."
+      ],
+      "verification_state": "directory_candidate_unverified",
+      "fetch_enabled": false,
+      "eligible_for_recommendation": false,
+      "verified_rule_document_url": null,
+      "verified_application_url": null,
+      "last_live_verified_at": null
+    },
+    {
+      "source_id": "directory-008",
+      "url": "https://pmfby.gov.in/",
+      "labels": [
+        "PM Fasal Bima Yojana"
+      ],
+      "sectors": [
+        "Agriculture and farmers"
+      ],
+      "pdf_pages": [
+        2
+      ],
+      "directory_descriptions": [
+        "Crop insurance scheme information and services."
+      ],
+      "verification_state": "directory_candidate_unverified",
+      "fetch_enabled": false,
+      "eligible_for_recommendation": false,
+      "verified_rule_document_url": null,
+      "verified_application_url": null,
+      "last_live_verified_at": null
+    },
+    {
+      "source_id": "directory-009",
+      "url": "https://pmksy.gov.in/",
+      "labels": [
+        "PM Krishi Sinchayee Yojana"
+      ],
+      "sectors": [
+        "Agriculture and farmers"
+      ],
+      "pdf_pages": [
+        2
+      ],
+      "directory_descriptions": [
+        "Irrigation and water-use programme information."
+      ],
+      "verification_state": "directory_candidate_unverified",
+      "fetch_enabled": false,
+      "eligible_for_recommendation": false,
+      "verified_rule_document_url": null,
+      "verified_application_url": null,
+      "last_live_verified_at": null
+    },
+    {
+      "source_id": "directory-010",
+      "url": "https://agmarknet.gov.in/",
+      "labels": [
+        "Agmarknet"
+      ],
+      "sectors": [
+        "Agriculture and farmers"
+      ],
+      "pdf_pages": [
+        2
+      ],
+      "directory_descriptions": [
+        "Agricultural market and price information."
+      ],
+      "verification_state": "directory_candidate_unverified",
+      "fetch_enabled": false,
+      "eligible_for_recommendation": false,
+      "verified_rule_document_url": null,
+      "verified_application_url": null,
+      "last_live_verified_at": null
+    },
+    {
+      "source_id": "directory-011",
+      "url": "https://enam.gov.in/",
+      "labels": [
+        "e-NAM"
+      ],
+      "sectors": [
+        "Agriculture and farmers"
+      ],
+      "pdf_pages": [
+        2
+      ],
+      "directory_descriptions": [
+        "National electronic agriculture market platform."
+      ],
+      "verification_state": "directory_candidate_unverified",
+      "fetch_enabled": false,
+      "eligible_for_recommendation": false,
+      "verified_rule_document_url": null,
+      "verified_application_url": null,
+      "last_live_verified_at": null
+    },
+    {
+      "source_id": "directory-012",
+      "url": "https://financialservices.gov.in/",
+      "labels": [
+        "Department of Financial Services"
+      ],
+      "sectors": [
+        "Finance, banking and insurance"
+      ],
+      "pdf_pages": [
+        2
+      ],
+      "directory_descriptions": [
+        "Financial inclusion, banking and financial-sector scheme information."
+      ],
+      "verification_state": "directory_candidate_unverified",
+      "fetch_enabled": false,
+      "eligible_for_recommendation": false,
+      "verified_rule_document_url": null,
+      "verified_application_url": null,
+      "last_live_verified_at": null
+    },
+    {
+      "source_id": "directory-013",
+      "url": "https://pmjdy.gov.in/",
+      "labels": [
+        "PM Jan Dhan Yojana"
+      ],
+      "sectors": [
+        "Finance, banking and insurance"
+      ],
+      "pdf_pages": [
+        2
+      ],
+      "directory_descriptions": [
+        "Financial inclusion and bank-account scheme information."
+      ],
+      "verification_state": "directory_candidate_unverified",
+      "fetch_enabled": false,
+      "eligible_for_recommendation": false,
+      "verified_rule_document_url": null,
+      "verified_application_url": null,
+      "last_live_verified_at": null
+    },
+    {
+      "source_id": "directory-014",
+      "url": "https://jansuraksha.gov.in/",
+      "labels": [
+        "Jan Suraksha"
+      ],
+      "sectors": [
+        "Finance, banking and insurance"
+      ],
+      "pdf_pages": [
+        2
+      ],
+      "directory_descriptions": [
+        "Official information for PMJJBY, PMSBY and Atal Pension Yojana."
+      ],
+      "verification_state": "directory_candidate_unverified",
+      "fetch_enabled": false,
+      "eligible_for_recommendation": false,
+      "verified_rule_document_url": null,
+      "verified_application_url": null,
+      "last_live_verified_at": null
+    },
+    {
+      "source_id": "directory-015",
+      "url": "https://www.mudra.org.in/",
+      "labels": [
+        "Pradhan Mantri Mudra Yojana",
+        "MUDRA"
+      ],
+      "sectors": [
+        "Finance, banking and insurance",
+        "MSME and entrepreneurship"
+      ],
+      "pdf_pages": [
+        2,
+        4
+      ],
+      "directory_descriptions": [
+        "MUDRA loan programme information.",
+        "Micro-unit financing programme information."
+      ],
+      "verification_state": "directory_candidate_unverified",
+      "fetch_enabled": false,
+      "eligible_for_recommendation": false,
+      "verified_rule_document_url": null,
+      "verified_application_url": null,
+      "last_live_verified_at": null
+    },
+    {
+      "source_id": "directory-016",
+      "url": "https://pmay-urban.gov.in/",
+      "labels": [
+        "PMAY–Urban"
+      ],
+      "sectors": [
+        "Housing and urban development"
+      ],
+      "pdf_pages": [
+        2
+      ],
+      "directory_descriptions": [
+        "Urban housing programme information."
+      ],
+      "verification_state": "directory_candidate_unverified",
+      "fetch_enabled": false,
+      "eligible_for_recommendation": false,
+      "verified_rule_document_url": null,
+      "verified_application_url": null,
+      "last_live_verified_at": null
+    },
+    {
+      "source_id": "directory-017",
+      "url": "https://pmayg.nic.in/",
+      "labels": [
+        "PMAY–Gramin"
+      ],
+      "sectors": [
+        "Housing and urban development",
+        "Rural development"
+      ],
+      "pdf_pages": [
+        3,
+        4
+      ],
+      "directory_descriptions": [
+        "Rural housing programme information.",
+        "Rural housing scheme information."
+      ],
+      "verification_state": "directory_candidate_unverified",
+      "fetch_enabled": false,
+      "eligible_for_recommendation": false,
+      "verified_rule_document_url": null,
+      "verified_application_url": null,
+      "last_live_verified_at": null
+    },
+    {
+      "source_id": "directory-018",
+      "url": "https://mohua.gov.in/",
+      "labels": [
+        "Ministry of Housing and Urban Affairs"
+      ],
+      "sectors": [
+        "Housing and urban development"
+      ],
+      "pdf_pages": [
+        3
+      ],
+      "directory_descriptions": [
+        "Urban development ministry and programme information."
+      ],
+      "verification_state": "directory_candidate_unverified",
+      "fetch_enabled": false,
+      "eligible_for_recommendation": false,
+      "verified_rule_document_url": null,
+      "verified_application_url": null,
+      "last_live_verified_at": null
+    },
+    {
+      "source_id": "directory-019",
+      "url": "https://pmsvanidhi.mohua.gov.in/",
+      "labels": [
+        "PM SVANidhi"
+      ],
+      "sectors": [
+        "Housing and urban development"
+      ],
+      "pdf_pages": [
+        3
+      ],
+      "directory_descriptions": [
+        "Working-capital support scheme for eligible street vendors."
+      ],
+      "verification_state": "directory_candidate_unverified",
+      "fetch_enabled": false,
+      "eligible_for_recommendation": false,
+      "verified_rule_document_url": null,
+      "verified_application_url": null,
+      "last_live_verified_at": null
+    },
+    {
+      "source_id": "directory-020",
+      "url": "https://amrut.gov.in/",
+      "labels": [
+        "AMRUT"
+      ],
+      "sectors": [
+        "Housing and urban development"
+      ],
+      "pdf_pages": [
+        3
+      ],
+      "directory_descriptions": [
+        "Urban infrastructure and service-improvement programme."
+      ],
+      "verification_state": "directory_candidate_unverified",
+      "fetch_enabled": false,
+      "eligible_for_recommendation": false,
+      "verified_rule_document_url": null,
+      "verified_application_url": null,
+      "last_live_verified_at": null
+    },
+    {
+      "source_id": "directory-021",
+      "url": "https://nha.gov.in/",
+      "labels": [
+        "National Health Authority"
+      ],
+      "sectors": [
+        "Health"
+      ],
+      "pdf_pages": [
+        3
+      ],
+      "directory_descriptions": [
+        "National Health Authority programmes and PM-JAY resources."
+      ],
+      "verification_state": "directory_candidate_unverified",
+      "fetch_enabled": false,
+      "eligible_for_recommendation": false,
+      "verified_rule_document_url": null,
+      "verified_application_url": null,
+      "last_live_verified_at": null
+    },
+    {
+      "source_id": "directory-022",
+      "url": "https://pmjay.gov.in/",
+      "labels": [
+        "Ayushman Bharat PM-JAY"
+      ],
+      "sectors": [
+        "Health"
+      ],
+      "pdf_pages": [
+        3
+      ],
+      "directory_descriptions": [
+        "Health assurance scheme information and beneficiary guidance."
+      ],
+      "verification_state": "directory_candidate_unverified",
+      "fetch_enabled": false,
+      "eligible_for_recommendation": false,
+      "verified_rule_document_url": null,
+      "verified_application_url": null,
+      "last_live_verified_at": null
+    },
+    {
+      "source_id": "directory-023",
+      "url": "https://janaushadhi.gov.in/",
+      "labels": [
+        "Pradhan Mantri Bhartiya Janaushadhi"
+      ],
+      "sectors": [
+        "Health"
+      ],
+      "pdf_pages": [
+        3
+      ],
+      "directory_descriptions": [
+        "Jan Aushadhi programme and generic-medicine outlet information."
+      ],
+      "verification_state": "directory_candidate_unverified",
+      "fetch_enabled": false,
+      "eligible_for_recommendation": false,
+      "verified_rule_document_url": null,
+      "verified_application_url": null,
+      "last_live_verified_at": null
+    },
+    {
+      "source_id": "directory-024",
+      "url": "https://mohfw.gov.in/",
+      "labels": [
+        "Ministry of Health and Family Welfare"
+      ],
+      "sectors": [
+        "Health"
+      ],
+      "pdf_pages": [
+        3
+      ],
+      "directory_descriptions": [
+        "Health ministry policies, notifications and programmes."
+      ],
+      "verification_state": "directory_candidate_unverified",
+      "fetch_enabled": false,
+      "eligible_for_recommendation": false,
+      "verified_rule_document_url": null,
+      "verified_application_url": null,
+      "last_live_verified_at": null
+    },
+    {
+      "source_id": "directory-025",
+      "url": "https://nhm.gov.in/",
+      "labels": [
+        "National Health Mission"
+      ],
+      "sectors": [
+        "Health"
+      ],
+      "pdf_pages": [
+        3
+      ],
+      "directory_descriptions": [
+        "National and state health mission information."
+      ],
+      "verification_state": "directory_candidate_unverified",
+      "fetch_enabled": false,
+      "eligible_for_recommendation": false,
+      "verified_rule_document_url": null,
+      "verified_application_url": null,
+      "last_live_verified_at": null
+    },
+    {
+      "source_id": "directory-026",
+      "url": "https://pmabhim.mohfw.gov.in/",
+      "labels": [
+        "PM-ABHIM"
+      ],
+      "sectors": [
+        "Health"
+      ],
+      "pdf_pages": [
+        3
+      ],
+      "directory_descriptions": [
+        "Health infrastructure mission information."
+      ],
+      "verification_state": "directory_candidate_unverified",
+      "fetch_enabled": false,
+      "eligible_for_recommendation": false,
+      "verified_rule_document_url": null,
+      "verified_application_url": null,
+      "last_live_verified_at": null
+    },
+    {
+      "source_id": "directory-027",
+      "url": "https://www.education.gov.in/",
+      "labels": [
+        "Ministry of Education"
+      ],
+      "sectors": [
+        "Education and scholarships"
+      ],
+      "pdf_pages": [
+        3
+      ],
+      "directory_descriptions": [
+        "Education policies, programmes and official notices."
+      ],
+      "verification_state": "directory_candidate_unverified",
+      "fetch_enabled": false,
+      "eligible_for_recommendation": false,
+      "verified_rule_document_url": null,
+      "verified_application_url": null,
+      "last_live_verified_at": null
+    },
+    {
+      "source_id": "directory-028",
+      "url": "https://scholarships.gov.in/",
+      "labels": [
+        "National Scholarship Portal"
+      ],
+      "sectors": [
+        "Education and scholarships",
+        "Social justice and empowerment"
+      ],
+      "pdf_pages": [
+        3,
+        6
+      ],
+      "directory_descriptions": [
+        "Scholarship discovery/application services for schemes onboarded on the portal.",
+        "Scholarship application services for schemes hosted there."
+      ],
+      "verification_state": "directory_candidate_unverified",
+      "fetch_enabled": false,
+      "eligible_for_recommendation": false,
+      "verified_rule_document_url": null,
+      "verified_application_url": null,
+      "last_live_verified_at": null
+    },
+    {
+      "source_id": "directory-029",
+      "url": "https://pmvidyalaxmi.co.in/",
+      "labels": [
+        "PM-Vidyalaxmi"
+      ],
+      "sectors": [
+        "Education and scholarships"
+      ],
+      "pdf_pages": [
+        3
+      ],
+      "directory_descriptions": [
+        "Education-loan support programme information and application services."
+      ],
+      "verification_state": "directory_candidate_unverified",
+      "fetch_enabled": false,
+      "eligible_for_recommendation": false,
+      "verified_rule_document_url": null,
+      "verified_application_url": null,
+      "last_live_verified_at": null
+    },
+    {
+      "source_id": "directory-030",
+      "url": "https://pmrf.in/",
+      "labels": [
+        "Prime Minister's Research Fellowship"
+      ],
+      "sectors": [
+        "Education and scholarships"
+      ],
+      "pdf_pages": [
+        3
+      ],
+      "directory_descriptions": [
+        "Research fellowship information and eligibility."
+      ],
+      "verification_state": "directory_candidate_unverified",
+      "fetch_enabled": false,
+      "eligible_for_recommendation": false,
+      "verified_rule_document_url": null,
+      "verified_application_url": null,
+      "last_live_verified_at": null
+    },
+    {
+      "source_id": "directory-031",
+      "url": "https://dsel.education.gov.in/",
+      "labels": [
+        "Department of School Education & Literacy"
+      ],
+      "sectors": [
+        "Education and scholarships"
+      ],
+      "pdf_pages": [
+        3
+      ],
+      "directory_descriptions": [
+        "School education programmes and policies."
+      ],
+      "verification_state": "directory_candidate_unverified",
+      "fetch_enabled": false,
+      "eligible_for_recommendation": false,
+      "verified_rule_document_url": null,
+      "verified_application_url": null,
+      "last_live_verified_at": null
+    },
+    {
+      "source_id": "directory-032",
+      "url": "https://www.ugc.gov.in/",
+      "labels": [
+        "University Grants Commission"
+      ],
+      "sectors": [
+        "Education and scholarships"
+      ],
+      "pdf_pages": [
+        3
+      ],
+      "directory_descriptions": [
+        "Higher-education regulations, notices and scholarship/fellowship information."
+      ],
+      "verification_state": "directory_candidate_unverified",
+      "fetch_enabled": false,
+      "eligible_for_recommendation": false,
+      "verified_rule_document_url": null,
+      "verified_application_url": null,
+      "last_live_verified_at": null
+    },
+    {
+      "source_id": "directory-033",
+      "url": "https://wcd.gov.in/",
+      "labels": [
+        "Ministry of Women and Child Development"
+      ],
+      "sectors": [
+        "Women and child development"
+      ],
+      "pdf_pages": [
+        3
+      ],
+      "directory_descriptions": [
+        "Women and child development programmes and notifications."
+      ],
+      "verification_state": "directory_candidate_unverified",
+      "fetch_enabled": false,
+      "eligible_for_recommendation": false,
+      "verified_rule_document_url": null,
+      "verified_application_url": null,
+      "last_live_verified_at": null
+    },
+    {
+      "source_id": "directory-034",
+      "url": "https://pmmvy.wcd.gov.in/",
+      "labels": [
+        "Pradhan Mantri Matru Vandana Yojana"
+      ],
+      "sectors": [
+        "Women and child development"
+      ],
+      "pdf_pages": [
+        3
+      ],
+      "directory_descriptions": [
+        "Maternity benefit scheme information and services."
+      ],
+      "verification_state": "directory_candidate_unverified",
+      "fetch_enabled": false,
+      "eligible_for_recommendation": false,
+      "verified_rule_document_url": null,
+      "verified_application_url": null,
+      "last_live_verified_at": null
+    },
+    {
+      "source_id": "directory-035",
+      "url": "https://poshanabhiyaan.gov.in/",
+      "labels": [
+        "POSHAN Abhiyaan"
+      ],
+      "sectors": [
+        "Women and child development"
+      ],
+      "pdf_pages": [
+        3
+      ],
+      "directory_descriptions": [
+        "Nutrition mission information."
+      ],
+      "verification_state": "directory_candidate_unverified",
+      "fetch_enabled": false,
+      "eligible_for_recommendation": false,
+      "verified_rule_document_url": null,
+      "verified_application_url": null,
+      "last_live_verified_at": null
+    },
+    {
+      "source_id": "directory-036",
+      "url": "https://www.msde.gov.in/",
+      "labels": [
+        "Ministry of Skill Development"
+      ],
+      "sectors": [
+        "Employment, skills and labour"
+      ],
+      "pdf_pages": [
+        4
+      ],
+      "directory_descriptions": [
+        "Skill development policies and programmes."
+      ],
+      "verification_state": "directory_candidate_unverified",
+      "fetch_enabled": false,
+      "eligible_for_recommendation": false,
+      "verified_rule_document_url": null,
+      "verified_application_url": null,
+      "last_live_verified_at": null
+    },
+    {
+      "source_id": "directory-037",
+      "url": "https://www.pmkvyofficial.org/",
+      "labels": [
+        "PMKVY"
+      ],
+      "sectors": [
+        "Employment, skills and labour"
+      ],
+      "pdf_pages": [
+        4
+      ],
+      "directory_descriptions": [
+        "Skill training programme information."
+      ],
+      "verification_state": "directory_candidate_unverified",
+      "fetch_enabled": false,
+      "eligible_for_recommendation": false,
+      "verified_rule_document_url": null,
+      "verified_application_url": null,
+      "last_live_verified_at": null
+    },
+    {
+      "source_id": "directory-038",
+      "url": "https://www.ncs.gov.in/",
+      "labels": [
+        "National Career Service"
+      ],
+      "sectors": [
+        "Employment, skills and labour"
+      ],
+      "pdf_pages": [
+        4
+      ],
+      "directory_descriptions": [
+        "Employment and career services."
+      ],
+      "verification_state": "directory_candidate_unverified",
+      "fetch_enabled": false,
+      "eligible_for_recommendation": false,
+      "verified_rule_document_url": null,
+      "verified_application_url": null,
+      "last_live_verified_at": null
+    },
+    {
+      "source_id": "directory-039",
+      "url": "https://eshram.gov.in/",
+      "labels": [
+        "e-Shram"
+      ],
+      "sectors": [
+        "Employment, skills and labour"
+      ],
+      "pdf_pages": [
+        4
+      ],
+      "directory_descriptions": [
+        "Unorganised-worker registration and related information."
+      ],
+      "verification_state": "directory_candidate_unverified",
+      "fetch_enabled": false,
+      "eligible_for_recommendation": false,
+      "verified_rule_document_url": null,
+      "verified_application_url": null,
+      "last_live_verified_at": null
+    },
+    {
+      "source_id": "directory-040",
+      "url": "https://labour.gov.in/",
+      "labels": [
+        "Ministry of Labour and Employment"
+      ],
+      "sectors": [
+        "Employment, skills and labour"
+      ],
+      "pdf_pages": [
+        4
+      ],
+      "directory_descriptions": [
+        "Labour policies, schemes and notifications."
+      ],
+      "verification_state": "directory_candidate_unverified",
+      "fetch_enabled": false,
+      "eligible_for_recommendation": false,
+      "verified_rule_document_url": null,
+      "verified_application_url": null,
+      "last_live_verified_at": null
+    },
+    {
+      "source_id": "directory-041",
+      "url": "https://www.dge.gov.in/",
+      "labels": [
+        "Directorate General of Employment"
+      ],
+      "sectors": [
+        "Employment, skills and labour"
+      ],
+      "pdf_pages": [
+        4
+      ],
+      "directory_descriptions": [
+        "Employment services and related resources."
+      ],
+      "verification_state": "directory_candidate_unverified",
+      "fetch_enabled": false,
+      "eligible_for_recommendation": false,
+      "verified_rule_document_url": null,
+      "verified_application_url": null,
+      "last_live_verified_at": null
+    },
+    {
+      "source_id": "directory-042",
+      "url": "https://msme.gov.in/",
+      "labels": [
+        "Ministry of MSME"
+      ],
+      "sectors": [
+        "MSME and entrepreneurship"
+      ],
+      "pdf_pages": [
+        4
+      ],
+      "directory_descriptions": [
+        "MSME schemes, policy documents and official updates."
+      ],
+      "verification_state": "directory_candidate_unverified",
+      "fetch_enabled": false,
+      "eligible_for_recommendation": false,
+      "verified_rule_document_url": null,
+      "verified_application_url": null,
+      "last_live_verified_at": null
+    },
+    {
+      "source_id": "directory-043",
+      "url": "https://pmvishwakarma.gov.in/",
+      "labels": [
+        "PM Vishwakarma"
+      ],
+      "sectors": [
+        "MSME and entrepreneurship"
+      ],
+      "pdf_pages": [
+        4
+      ],
+      "directory_descriptions": [
+        "Support programme for eligible traditional artisans and craftspeople."
+      ],
+      "verification_state": "directory_candidate_unverified",
+      "fetch_enabled": false,
+      "eligible_for_recommendation": false,
+      "verified_rule_document_url": null,
+      "verified_application_url": null,
+      "last_live_verified_at": null
+    },
+    {
+      "source_id": "directory-044",
+      "url": "https://www.kviconline.gov.in/pmegpeportal/",
+      "labels": [
+        "PMEGP"
+      ],
+      "sectors": [
+        "MSME and entrepreneurship"
+      ],
+      "pdf_pages": [
+        4
+      ],
+      "directory_descriptions": [
+        "Prime Minister's Employment Generation Programme portal."
+      ],
+      "verification_state": "directory_candidate_unverified",
+      "fetch_enabled": false,
+      "eligible_for_recommendation": false,
+      "verified_rule_document_url": null,
+      "verified_application_url": null,
+      "last_live_verified_at": null
+    },
+    {
+      "source_id": "directory-045",
+      "url": "https://udyamregistration.gov.in/",
+      "labels": [
+        "Udyam Registration"
+      ],
+      "sectors": [
+        "MSME and entrepreneurship"
+      ],
+      "pdf_pages": [
+        4
+      ],
+      "directory_descriptions": [
+        "Official MSME registration portal."
+      ],
+      "verification_state": "directory_candidate_unverified",
+      "fetch_enabled": false,
+      "eligible_for_recommendation": false,
+      "verified_rule_document_url": null,
+      "verified_application_url": null,
+      "last_live_verified_at": null
+    },
+    {
+      "source_id": "directory-046",
+      "url": "https://www.startupindia.gov.in/",
+      "labels": [
+        "Startup India"
+      ],
+      "sectors": [
+        "MSME and entrepreneurship"
+      ],
+      "pdf_pages": [
+        4
+      ],
+      "directory_descriptions": [
+        "Startup support, recognition and ecosystem resources."
+      ],
+      "verification_state": "directory_candidate_unverified",
+      "fetch_enabled": false,
+      "eligible_for_recommendation": false,
+      "verified_rule_document_url": null,
+      "verified_application_url": null,
+      "last_live_verified_at": null
+    },
+    {
+      "source_id": "directory-047",
+      "url": "https://rural.gov.in/",
+      "labels": [
+        "Ministry of Rural Development"
+      ],
+      "sectors": [
+        "Rural development"
+      ],
+      "pdf_pages": [
+        4
+      ],
+      "directory_descriptions": [
+        "Rural development policies and schemes."
+      ],
+      "verification_state": "directory_candidate_unverified",
+      "fetch_enabled": false,
+      "eligible_for_recommendation": false,
+      "verified_rule_document_url": null,
+      "verified_application_url": null,
+      "last_live_verified_at": null
+    },
+    {
+      "source_id": "directory-048",
+      "url": "https://pmgsy.nic.in/",
+      "labels": [
+        "PMGSY"
+      ],
+      "sectors": [
+        "Rural development"
+      ],
+      "pdf_pages": [
+        4
+      ],
+      "directory_descriptions": [
+        "Rural roads programme information."
+      ],
+      "verification_state": "directory_candidate_unverified",
+      "fetch_enabled": false,
+      "eligible_for_recommendation": false,
+      "verified_rule_document_url": null,
+      "verified_application_url": null,
+      "last_live_verified_at": null
+    },
+    {
+      "source_id": "directory-049",
+      "url": "https://nrega.nic.in/",
+      "labels": [
+        "MGNREGA"
+      ],
+      "sectors": [
+        "Rural development"
+      ],
+      "pdf_pages": [
+        4
+      ],
+      "directory_descriptions": [
+        "Rural employment guarantee programme information and records."
+      ],
+      "verification_state": "directory_candidate_unverified",
+      "fetch_enabled": false,
+      "eligible_for_recommendation": false,
+      "verified_rule_document_url": null,
+      "verified_application_url": null,
+      "last_live_verified_at": null
+    },
+    {
+      "source_id": "directory-050",
+      "url": "https://aajeevika.gov.in/",
+      "labels": [
+        "DAY–NRLM / Aajeevika"
+      ],
+      "sectors": [
+        "Rural development"
+      ],
+      "pdf_pages": [
+        4
+      ],
+      "directory_descriptions": [
+        "Rural livelihoods and self-help group programme information."
+      ],
+      "verification_state": "directory_candidate_unverified",
+      "fetch_enabled": false,
+      "eligible_for_recommendation": false,
+      "verified_rule_document_url": null,
+      "verified_application_url": null,
+      "last_live_verified_at": null
+    },
+    {
+      "source_id": "directory-051",
+      "url": "https://dfpd.gov.in/",
+      "labels": [
+        "Department of Food & Public Distribution"
+      ],
+      "sectors": [
+        "Food and public distribution"
+      ],
+      "pdf_pages": [
+        4
+      ],
+      "directory_descriptions": [
+        "Food security and public distribution policies and schemes."
+      ],
+      "verification_state": "directory_candidate_unverified",
+      "fetch_enabled": false,
+      "eligible_for_recommendation": false,
+      "verified_rule_document_url": null,
+      "verified_application_url": null,
+      "last_live_verified_at": null
+    },
+    {
+      "source_id": "directory-052",
+      "url": "https://nfsa.gov.in/",
+      "labels": [
+        "National Food Security Act portal"
+      ],
+      "sectors": [
+        "Food and public distribution"
+      ],
+      "pdf_pages": [
+        4
+      ],
+      "directory_descriptions": [
+        "NFSA information and state/UT public distribution links."
+      ],
+      "verification_state": "directory_candidate_unverified",
+      "fetch_enabled": false,
+      "eligible_for_recommendation": false,
+      "verified_rule_document_url": null,
+      "verified_application_url": null,
+      "last_live_verified_at": null
+    },
+    {
+      "source_id": "directory-053",
+      "url": "https://annavitran.nic.in/",
+      "labels": [
+        "Annavitran"
+      ],
+      "sectors": [
+        "Food and public distribution"
+      ],
+      "pdf_pages": [
+        4
+      ],
+      "directory_descriptions": [
+        "Public distribution system transaction and portability information."
+      ],
+      "verification_state": "directory_candidate_unverified",
+      "fetch_enabled": false,
+      "eligible_for_recommendation": false,
+      "verified_rule_document_url": null,
+      "verified_application_url": null,
+      "last_live_verified_at": null
+    },
+    {
+      "source_id": "directory-054",
+      "url": "https://dfpd.gov.in/pradhan-mantri-garib-kalyan-anna-yojana/en",
+      "labels": [
+        "PMGKAY information"
+      ],
+      "sectors": [
+        "Food and public distribution"
+      ],
+      "pdf_pages": [
+        4
+      ],
+      "directory_descriptions": [
+        "Official information page; verify current status and applicable rules."
+      ],
+      "verification_state": "directory_candidate_unverified",
+      "fetch_enabled": false,
+      "eligible_for_recommendation": false,
+      "verified_rule_document_url": null,
+      "verified_application_url": null,
+      "last_live_verified_at": null
+    },
+    {
+      "source_id": "directory-055",
+      "url": "https://mopng.gov.in/",
+      "labels": [
+        "Ministry of Petroleum and Natural Gas"
+      ],
+      "sectors": [
+        "Petroleum and LPG"
+      ],
+      "pdf_pages": [
+        5
+      ],
+      "directory_descriptions": [
+        "Ministry policies and programme information."
+      ],
+      "verification_state": "directory_candidate_unverified",
+      "fetch_enabled": false,
+      "eligible_for_recommendation": false,
+      "verified_rule_document_url": null,
+      "verified_application_url": null,
+      "last_live_verified_at": null
+    },
+    {
+      "source_id": "directory-056",
+      "url": "https://www.pmuy.gov.in/",
+      "labels": [
+        "Pradhan Mantri Ujjwala Yojana"
+      ],
+      "sectors": [
+        "Petroleum and LPG"
+      ],
+      "pdf_pages": [
+        5
+      ],
+      "directory_descriptions": [
+        "LPG connection scheme information and application guidance."
+      ],
+      "verification_state": "directory_candidate_unverified",
+      "fetch_enabled": false,
+      "eligible_for_recommendation": false,
+      "verified_rule_document_url": null,
+      "verified_application_url": null,
+      "last_live_verified_at": null
+    },
+    {
+      "source_id": "directory-057",
+      "url": "https://www.mylpg.in/",
+      "labels": [
+        "My LPG"
+      ],
+      "sectors": [
+        "Petroleum and LPG"
+      ],
+      "pdf_pages": [
+        5
+      ],
+      "directory_descriptions": [
+        "LPG consumer services and provider links."
+      ],
+      "verification_state": "directory_candidate_unverified",
+      "fetch_enabled": false,
+      "eligible_for_recommendation": false,
+      "verified_rule_document_url": null,
+      "verified_application_url": null,
+      "last_live_verified_at": null
+    },
+    {
+      "source_id": "directory-058",
+      "url": "https://mnre.gov.in/",
+      "labels": [
+        "MNRE"
+      ],
+      "sectors": [
+        "Renewable energy and power"
+      ],
+      "pdf_pages": [
+        5
+      ],
+      "directory_descriptions": [
+        "Renewable-energy policies and schemes."
+      ],
+      "verification_state": "directory_candidate_unverified",
+      "fetch_enabled": false,
+      "eligible_for_recommendation": false,
+      "verified_rule_document_url": null,
+      "verified_application_url": null,
+      "last_live_verified_at": null
+    },
+    {
+      "source_id": "directory-059",
+      "url": "https://pmsuryaghar.gov.in/",
+      "labels": [
+        "PM Surya Ghar"
+      ],
+      "sectors": [
+        "Renewable energy and power"
+      ],
+      "pdf_pages": [
+        5
+      ],
+      "directory_descriptions": [
+        "Rooftop solar programme information and application process."
+      ],
+      "verification_state": "directory_candidate_unverified",
+      "fetch_enabled": false,
+      "eligible_for_recommendation": false,
+      "verified_rule_document_url": null,
+      "verified_application_url": null,
+      "last_live_verified_at": null
+    },
+    {
+      "source_id": "directory-060",
+      "url": "https://pmkusum.mnre.gov.in/",
+      "labels": [
+        "PM-KUSUM"
+      ],
+      "sectors": [
+        "Renewable energy and power"
+      ],
+      "pdf_pages": [
+        5
+      ],
+      "directory_descriptions": [
+        "Solarisation support for agriculture and farmers."
+      ],
+      "verification_state": "directory_candidate_unverified",
+      "fetch_enabled": false,
+      "eligible_for_recommendation": false,
+      "verified_rule_document_url": null,
+      "verified_application_url": null,
+      "last_live_verified_at": null
+    },
+    {
+      "source_id": "directory-061",
+      "url": "https://powermin.gov.in/",
+      "labels": [
+        "Ministry of Power"
+      ],
+      "sectors": [
+        "Renewable energy and power"
+      ],
+      "pdf_pages": [
+        5
+      ],
+      "directory_descriptions": [
+        "Power-sector policies and programmes."
+      ],
+      "verification_state": "directory_candidate_unverified",
+      "fetch_enabled": false,
+      "eligible_for_recommendation": false,
+      "verified_rule_document_url": null,
+      "verified_application_url": null,
+      "last_live_verified_at": null
+    },
+    {
+      "source_id": "directory-062",
+      "url": "https://socialjustice.gov.in/",
+      "labels": [
+        "Department of Social Justice"
+      ],
+      "sectors": [
+        "Social justice and empowerment"
+      ],
+      "pdf_pages": [
+        6
+      ],
+      "directory_descriptions": [
+        "Social justice schemes, guidelines and notices."
+      ],
+      "verification_state": "directory_candidate_unverified",
+      "fetch_enabled": false,
+      "eligible_for_recommendation": false,
+      "verified_rule_document_url": null,
+      "verified_application_url": null,
+      "last_live_verified_at": null
+    },
+    {
+      "source_id": "directory-063",
+      "url": "https://pmajay.dosje.gov.in/",
+      "labels": [
+        "PM-AJAY"
+      ],
+      "sectors": [
+        "Social justice and empowerment"
+      ],
+      "pdf_pages": [
+        6
+      ],
+      "directory_descriptions": [
+        "Pradhan Mantri Anusuchit Jaati Abhyuday Yojana information."
+      ],
+      "verification_state": "directory_candidate_unverified",
+      "fetch_enabled": false,
+      "eligible_for_recommendation": false,
+      "verified_rule_document_url": null,
+      "verified_application_url": null,
+      "last_live_verified_at": null
+    },
+    {
+      "source_id": "directory-064",
+      "url": "https://pmdaksh.dosje.gov.in/",
+      "labels": [
+        "PM-DAKSH"
+      ],
+      "sectors": [
+        "Social justice and empowerment"
+      ],
+      "pdf_pages": [
+        6
+      ],
+      "directory_descriptions": [
+        "Skill development programme information for eligible groups."
+      ],
+      "verification_state": "directory_candidate_unverified",
+      "fetch_enabled": false,
+      "eligible_for_recommendation": false,
+      "verified_rule_document_url": null,
+      "verified_application_url": null,
+      "last_live_verified_at": null
+    },
+    {
+      "source_id": "directory-065",
+      "url": "https://yet.nta.ac.in/",
+      "labels": [
+        "PM-YASASVI examination portal"
+      ],
+      "sectors": [
+        "Social justice and empowerment"
+      ],
+      "pdf_pages": [
+        6
+      ],
+      "directory_descriptions": [
+        "NTA examination-related portal; verify current exam cycle and notices."
+      ],
+      "verification_state": "directory_candidate_unverified",
+      "fetch_enabled": false,
+      "eligible_for_recommendation": false,
+      "verified_rule_document_url": null,
+      "verified_application_url": null,
+      "last_live_verified_at": null
+    },
+    {
+      "source_id": "directory-066",
+      "url": "https://tribal.gov.in/",
+      "labels": [
+        "Ministry of Tribal Affairs"
+      ],
+      "sectors": [
+        "Tribal affairs"
+      ],
+      "pdf_pages": [
+        6
+      ],
+      "directory_descriptions": [
+        "Tribal welfare policies, schemes and notifications."
+      ],
+      "verification_state": "directory_candidate_unverified",
+      "fetch_enabled": false,
+      "eligible_for_recommendation": false,
+      "verified_rule_document_url": null,
+      "verified_application_url": null,
+      "last_live_verified_at": null
+    },
+    {
+      "source_id": "directory-067",
+      "url": "https://pmagy.gov.in/",
+      "labels": [
+        "PM Adi Adarsh Gram Yojana"
+      ],
+      "sectors": [
+        "Tribal affairs"
+      ],
+      "pdf_pages": [
+        6
+      ],
+      "directory_descriptions": [
+        "Village development programme information."
+      ],
+      "verification_state": "directory_candidate_unverified",
+      "fetch_enabled": false,
+      "eligible_for_recommendation": false,
+      "verified_rule_document_url": null,
+      "verified_application_url": null,
+      "last_live_verified_at": null
+    },
+    {
+      "source_id": "directory-068",
+      "url": "https://nests.tribal.gov.in/",
+      "labels": [
+        "National Education Society for Tribal Students"
+      ],
+      "sectors": [
+        "Tribal affairs"
+      ],
+      "pdf_pages": [
+        6
+      ],
+      "directory_descriptions": [
+        "Eklavya Model Residential Schools and related education resources."
+      ],
+      "verification_state": "directory_candidate_unverified",
+      "fetch_enabled": false,
+      "eligible_for_recommendation": false,
+      "verified_rule_document_url": null,
+      "verified_application_url": null,
+      "last_live_verified_at": null
+    },
+    {
+      "source_id": "directory-069",
+      "url": "https://dbttribal.gov.in/",
+      "labels": [
+        "DBT Tribal"
+      ],
+      "sectors": [
+        "Tribal affairs"
+      ],
+      "pdf_pages": [
+        6
+      ],
+      "directory_descriptions": [
+        "Direct benefit transfer-related tribal affairs resources."
+      ],
+      "verification_state": "directory_candidate_unverified",
+      "fetch_enabled": false,
+      "eligible_for_recommendation": false,
+      "verified_rule_document_url": null,
+      "verified_application_url": null,
+      "last_live_verified_at": null
+    },
+    {
+      "source_id": "directory-070",
+      "url": "https://dof.gov.in/",
+      "labels": [
+        "Department of Fisheries"
+      ],
+      "sectors": [
+        "Fisheries and animal husbandry"
+      ],
+      "pdf_pages": [
+        6
+      ],
+      "directory_descriptions": [
+        "Fisheries policies and schemes."
+      ],
+      "verification_state": "directory_candidate_unverified",
+      "fetch_enabled": false,
+      "eligible_for_recommendation": false,
+      "verified_rule_document_url": null,
+      "verified_application_url": null,
+      "last_live_verified_at": null
+    },
+    {
+      "source_id": "directory-071",
+      "url": "https://pmmsy.dof.gov.in/",
+      "labels": [
+        "PM Matsya Sampada Yojana"
+      ],
+      "sectors": [
+        "Fisheries and animal husbandry"
+      ],
+      "pdf_pages": [
+        6
+      ],
+      "directory_descriptions": [
+        "Fisheries development programme information."
+      ],
+      "verification_state": "directory_candidate_unverified",
+      "fetch_enabled": false,
+      "eligible_for_recommendation": false,
+      "verified_rule_document_url": null,
+      "verified_application_url": null,
+      "last_live_verified_at": null
+    },
+    {
+      "source_id": "directory-072",
+      "url": "https://dahd.gov.in/",
+      "labels": [
+        "Department of Animal Husbandry and Dairying"
+      ],
+      "sectors": [
+        "Fisheries and animal husbandry"
+      ],
+      "pdf_pages": [
+        6
+      ],
+      "directory_descriptions": [
+        "Animal husbandry policies and schemes."
+      ],
+      "verification_state": "directory_candidate_unverified",
+      "fetch_enabled": false,
+      "eligible_for_recommendation": false,
+      "verified_rule_document_url": null,
+      "verified_application_url": null,
+      "last_live_verified_at": null
+    },
+    {
+      "source_id": "directory-073",
+      "url": "https://dahd.gov.in/schemes-programmes",
+      "labels": [
+        "DAHD schemes and programmes"
+      ],
+      "sectors": [
+        "Fisheries and animal husbandry"
+      ],
+      "pdf_pages": [
+        6
+      ],
+      "directory_descriptions": [
+        "Departmental scheme listings and programme details."
+      ],
+      "verification_state": "directory_candidate_unverified",
+      "fetch_enabled": false,
+      "eligible_for_recommendation": false,
+      "verified_rule_document_url": null,
+      "verified_application_url": null,
+      "last_live_verified_at": null
+    },
+    {
+      "source_id": "directory-074",
+      "url": "https://jaljeevanmission.gov.in/",
+      "labels": [
+        "Jal Jeevan Mission"
+      ],
+      "sectors": [
+        "Water and sanitation"
+      ],
+      "pdf_pages": [
+        6
+      ],
+      "directory_descriptions": [
+        "Rural household tap-water mission information."
+      ],
+      "verification_state": "directory_candidate_unverified",
+      "fetch_enabled": false,
+      "eligible_for_recommendation": false,
+      "verified_rule_document_url": null,
+      "verified_application_url": null,
+      "last_live_verified_at": null
+    },
+    {
+      "source_id": "directory-075",
+      "url": "https://swachhbharatmission.gov.in/",
+      "labels": [
+        "Swachh Bharat Mission"
+      ],
+      "sectors": [
+        "Water and sanitation"
+      ],
+      "pdf_pages": [
+        6
+      ],
+      "directory_descriptions": [
+        "Swachh Bharat programme information."
+      ],
+      "verification_state": "directory_candidate_unverified",
+      "fetch_enabled": false,
+      "eligible_for_recommendation": false,
+      "verified_rule_document_url": null,
+      "verified_application_url": null,
+      "last_live_verified_at": null
+    },
+    {
+      "source_id": "directory-076",
+      "url": "https://jalshakti-dowr.gov.in/",
+      "labels": [
+        "Department of Water Resources"
+      ],
+      "sectors": [
+        "Water and sanitation"
+      ],
+      "pdf_pages": [
+        6
+      ],
+      "directory_descriptions": [
+        "Water resources policies and programmes."
+      ],
+      "verification_state": "directory_candidate_unverified",
+      "fetch_enabled": false,
+      "eligible_for_recommendation": false,
+      "verified_rule_document_url": null,
+      "verified_application_url": null,
+      "last_live_verified_at": null
+    },
+    {
+      "source_id": "directory-077",
+      "url": "https://swachhbharatmission.ddws.gov.in/",
+      "labels": [
+        "Swachh Bharat Mission–Gramin"
+      ],
+      "sectors": [
+        "Water and sanitation"
+      ],
+      "pdf_pages": [
+        6
+      ],
+      "directory_descriptions": [
+        "Rural sanitation mission resources."
+      ],
+      "verification_state": "directory_candidate_unverified",
+      "fetch_enabled": false,
+      "eligible_for_recommendation": false,
+      "verified_rule_document_url": null,
+      "verified_application_url": null,
+      "last_live_verified_at": null
+    },
+    {
+      "source_id": "directory-078",
+      "url": "https://morth.nic.in/",
+      "labels": [
+        "Ministry of Road Transport and Highways"
+      ],
+      "sectors": [
+        "Transport and infrastructure"
+      ],
+      "pdf_pages": [
+        6
+      ],
+      "directory_descriptions": [
+        "Road transport policies and schemes."
+      ],
+      "verification_state": "directory_candidate_unverified",
+      "fetch_enabled": false,
+      "eligible_for_recommendation": false,
+      "verified_rule_document_url": null,
+      "verified_application_url": null,
+      "last_live_verified_at": null
+    },
+    {
+      "source_id": "directory-079",
+      "url": "https://nhai.gov.in/",
+      "labels": [
+        "National Highways Authority of India"
+      ],
+      "sectors": [
+        "Transport and infrastructure"
+      ],
+      "pdf_pages": [
+        6
+      ],
+      "directory_descriptions": [
+        "National highway development and services."
+      ],
+      "verification_state": "directory_candidate_unverified",
+      "fetch_enabled": false,
+      "eligible_for_recommendation": false,
+      "verified_rule_document_url": null,
+      "verified_application_url": null,
+      "last_live_verified_at": null
+    },
+    {
+      "source_id": "directory-080",
+      "url": "https://heavyindustries.gov.in/",
+      "labels": [
+        "Ministry of Heavy Industries"
+      ],
+      "sectors": [
+        "Transport and infrastructure"
+      ],
+      "pdf_pages": [
+        7
+      ],
+      "directory_descriptions": [
+        "Heavy industries programmes and policy information."
+      ],
+      "verification_state": "directory_candidate_unverified",
+      "fetch_enabled": false,
+      "eligible_for_recommendation": false,
+      "verified_rule_document_url": null,
+      "verified_application_url": null,
+      "last_live_verified_at": null
+    },
+    {
+      "source_id": "directory-081",
+      "url": "https://pmgatishakti.gov.in/",
+      "labels": [
+        "PM Gati Shakti"
+      ],
+      "sectors": [
+        "Transport and infrastructure"
+      ],
+      "pdf_pages": [
+        7
+      ],
+      "directory_descriptions": [
+        "National infrastructure planning platform information."
+      ],
+      "verification_state": "directory_candidate_unverified",
+      "fetch_enabled": false,
+      "eligible_for_recommendation": false,
+      "verified_rule_document_url": null,
+      "verified_application_url": null,
+      "last_live_verified_at": null
+    },
+    {
+      "source_id": "directory-082",
+      "url": "https://mofpi.gov.in/",
+      "labels": [
+        "Ministry of Food Processing Industries"
+      ],
+      "sectors": [
+        "Food processing and textiles"
+      ],
+      "pdf_pages": [
+        7
+      ],
+      "directory_descriptions": [
+        "Food-processing policies and schemes."
+      ],
+      "verification_state": "directory_candidate_unverified",
+      "fetch_enabled": false,
+      "eligible_for_recommendation": false,
+      "verified_rule_document_url": null,
+      "verified_application_url": null,
+      "last_live_verified_at": null
+    },
+    {
+      "source_id": "directory-083",
+      "url": "https://pmfme.mofpi.gov.in/",
+      "labels": [
+        "PM Formalisation of Micro Food Processing Enterprises"
+      ],
+      "sectors": [
+        "Food processing and textiles"
+      ],
+      "pdf_pages": [
+        7
+      ],
+      "directory_descriptions": [
+        "PMFME scheme information and services."
+      ],
+      "verification_state": "directory_candidate_unverified",
+      "fetch_enabled": false,
+      "eligible_for_recommendation": false,
+      "verified_rule_document_url": null,
+      "verified_application_url": null,
+      "last_live_verified_at": null
+    },
+    {
+      "source_id": "directory-084",
+      "url": "https://texmin.nic.in/",
+      "labels": [
+        "Ministry of Textiles"
+      ],
+      "sectors": [
+        "Food processing and textiles"
+      ],
+      "pdf_pages": [
+        7
+      ],
+      "directory_descriptions": [
+        "Textile-sector policies and programmes."
+      ],
+      "verification_state": "directory_candidate_unverified",
+      "fetch_enabled": false,
+      "eligible_for_recommendation": false,
+      "verified_rule_document_url": null,
+      "verified_application_url": null,
+      "last_live_verified_at": null
+    },
+    {
+      "source_id": "directory-085",
+      "url": "https://pmmitra.gov.in/",
+      "labels": [
+        "PM MITRA"
+      ],
+      "sectors": [
+        "Food processing and textiles"
+      ],
+      "pdf_pages": [
+        7
+      ],
+      "directory_descriptions": [
+        "Mega Integrated Textile Region and Apparel parks programme."
+      ],
+      "verification_state": "directory_candidate_unverified",
+      "fetch_enabled": false,
+      "eligible_for_recommendation": false,
+      "verified_rule_document_url": null,
+      "verified_application_url": null,
+      "last_live_verified_at": null
+    },
+    {
+      "source_id": "directory-086",
+      "url": "https://sukanyasamriddhiaccount.gov.in/",
+      "labels": [
+        "Sukanya Samriddhi Account"
+      ],
+      "sectors": [
+        "Savings scheme cross-reference"
+      ],
+      "pdf_pages": [
+        7
+      ],
+      "directory_descriptions": [
+        "Small-savings scheme information; not a Women & Child Development ministry portal."
+      ],
+      "verification_state": "directory_candidate_unverified",
+      "fetch_enabled": false,
+      "eligible_for_recommendation": false,
+      "verified_rule_document_url": null,
+      "verified_application_url": null,
+      "last_live_verified_at": null
+    }
+  ]
+}

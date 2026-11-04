@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tejaspant09.github.io/yojana-sahayak-website/sitemap.xml
