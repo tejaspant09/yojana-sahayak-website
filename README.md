@@ -73,15 +73,28 @@ With Ollama running on port 11434, answers use its bounded fact selection. Witho
 
 ## Connect your own WhatsApp account
 
-Copy `.env.example` to `.env`. Set `YOJANA_WHATSAPP_NUMBER` to **your own consenting test number**, including country code and digits only. Leave it empty to keep public WhatsApp links disabled.
+**Anyone who downloads this public repository can connect their own WhatsApp account and run their own copy of the bot using the steps below.** You will need Node.js/npm, a computer with internet, and access to the WhatsApp account you want to pair. The computer and bot process must remain running to receive and answer messages.
+
+People trying the [public browser demo](https://tejaspant09.github.io/yojana-sahayak-website/) do not need to pair WhatsApp. People chatting with an already running WhatsApp bot simply message that bot's number. QR pairing is for the person operating their own bot.
+
+1. Complete the local setup above (`git clone`, `cd yojana-sahayak`, and `npm.cmd ci`).
+2. Create your private settings file from the project folder:
 
 ```powershell
 Copy-Item .env.example .env
-# Edit .env locally, then:
+```
+
+3. Open `.env` in a text editor. Set `YOJANA_WHATSAPP_NUMBER` to **your own consenting test number**, including country code and digits only. For an Indian account, use `91` followed by your actual ten-digit number. This setting controls the contact/restart links; scanning the QR connects the account. Leave it empty to keep those links disabled.
+4. Start your local bot:
+
+```powershell
 npm.cmd run whatsapp
 ```
 
-Scan the displayed QR through WhatsApp's Linked devices, then send `YOJANA START` from another consenting account. Never commit `server/.baileys-auth/` or copy an active session from the team's project. This repository has no paired account bundled.
+5. On the phone for the account you want to connect, open **WhatsApp → Linked devices → Link a device** and scan the terminal's QR code.
+6. Once the terminal reports `WhatsApp connected`, send `YOJANA START` to the paired number from another consenting WhatsApp account.
+
+Your pairing belongs to your local copy. Never upload `.env` or `server/.baileys-auth/`, and never copy another person's active session. This repository includes no paired account or login credentials.
 
 Baileys is an unofficial WhatsApp Web integration. Phone pairing and end-to-end handset behavior must be checked on your account. This build does not automatically send messages or start the bot.
 
