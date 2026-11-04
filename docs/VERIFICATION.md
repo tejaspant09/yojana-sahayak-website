@@ -29,6 +29,11 @@ Node HTTP tests additionally exercised authentication, invalid/oversized input, 
 
 ## Target acceptance
 
-GitHub Pages deployment and repository push verification are recorded below after publication. Local success alone does not establish a successful hosted deployment.
+**VERIFIED on 4 November 2026:**
+
+- Complete source repository: https://github.com/tejaspant09/yojana-sahayak — public, pushed successfully. The application commit `8691717022e75b6c898c7209630f1cf389f2add8` passed [GitHub CI](https://github.com/tejaspant09/yojana-sahayak/actions/runs/41779685314).
+- Website source commit: `61cf93479d54987750bb294539e4c8766c0de0b3`, pushed to https://github.com/tejaspant09/yojana-sahayak-website. Its [CI run](https://github.com/tejaspant09/yojana-sahayak-website/actions/runs/41779741207) and [Pages deployment](https://github.com/tejaspant09/yojana-sahayak-website/actions/runs/41779741224) succeeded.
+- Public URL: https://tejaspant09.github.io/yojana-sahayak-website/ — opened over HTTPS after deployment. The live fictional yes/no/no/unknown questionnaire returned **More information needed**, identified the unanswered exclusion, and showed official supporting citations. The browser error log was empty during this smoke test.
+- A subsequent documentation-only commit records these results; it does not change the tested executable application.
 
 Live WhatsApp pairing, real handset audio, local Qwen/Whisper performance, official source re-review, production messaging approval, and actual Google indexing are **not established by these checks**. The public demo deliberately uses reviewed records and selected-condition rules without a cloud inference service or beneficiary data storage.
